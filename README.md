@@ -9,3 +9,4 @@
 | 5 | [Link](/day5/README.md)   | [Link](/day5/day5.js)   |
 | 6 | [Link](/day6/README.md)   | [Link](/day6/day6.js)   |
 | 7 | [Link](/day7/README.md)   | [Link](/day7/day7.js)   |
+| 8 | [Link](/day8/README.md)   | [Link](/day8/day8.js)   |
